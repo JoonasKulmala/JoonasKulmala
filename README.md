@@ -5,8 +5,6 @@
 
 ## I'm an aspiring software developer. Currently looking for an Entry/Junior level internship!
 
----
-
 - Currently learning Python :snake:
 - 2020 goals: survive :skull:
 - 2021 goals: finish my studies and find a fulfilling job :+1:

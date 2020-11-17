@@ -1,6 +1,6 @@
 ### Hello there! I'm Joonas - aka JoonasKulmala
 
-![Website](https://img.shields.io/website?label=LinkedIn.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)(https://www.linkedin.com/in/joonas-kulmala-0a583914a/)
+[![Website](https://img.shields.io/website?label=LinkedIn.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/joonas-kulmala-0a583914a/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JoonasKulmala?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JoonasKulmala)
 
 ## I'm an aspiring software developer. Currently looking for an internship at Entry/Junior level!
@@ -8,11 +8,11 @@
 - Currently learning Python :snake:
 - 2020 goals: survive :skull:
 - 2021 goals: finish my studies and find a fulfilling job :+1:
-- I :heart: piano music
+- I :heart: piano music and mint :chocolate_bar:
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 [<img align="left" alt="JoonasKulmala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoonasKulmala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[website]: https://www.linkedin.com/in/joonas-kulmala-0a583914a/
+<!--[website]: https://www.linkedin.com/in/joonas-kulmala-0a583914a/-->
 [twitter]: https://twitter.com/JoonasKulmala
 [linkedin]: https://www.linkedin.com/in/joonas-kulmala-0a583914a/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt

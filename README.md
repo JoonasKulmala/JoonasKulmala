@@ -41,6 +41,7 @@
 [github]: https://github.com/
 [visualstudiocode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
+[terminal]: -
 
 [html5]: https://html.com/html5/
 [react]: https://reactjs.org/
@@ -48,6 +49,7 @@
 [javascript]: https://www.javascript.com/
 [python]: https://www.python.org/
 [java]: https://www.java.com/en/
+[sql]: -
 
 <br />
 <br />

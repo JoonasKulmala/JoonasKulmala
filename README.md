@@ -5,6 +5,8 @@
 
 ## I'm an aspiring software developer. Currently looking for an Entry/Junior level internship!
 
+---
+
 - Currently learning Python :snake:
 - 2020 goals: survive :skull:
 - 2021 goals: finish my studies and find a fulfilling job :+1:
@@ -24,6 +26,7 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactnative]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />][python]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
@@ -35,16 +38,20 @@
 <br />
 <br />
 
+---
+
 ### Articles I found interesting:
 
-<!--[website]: https://www.linkedin.com/in/joonas-kulmala-0a583914a/-->
+- [Standing up for developers: youtube-dl is back](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
+
+<!--[website]: -->
 [twitter]: https://twitter.com/JoonasKulmala
 [linkedin]: https://www.linkedin.com/in/joonas-kulmala-0a583914a/
 
 [github]: https://github.com/
-[visualstudiocode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [terminal]: -
+[visualstudiocode]: https://code.visualstudio.com/
 
 [html5]: https://html.com/html5/
 [react]: https://reactjs.org/

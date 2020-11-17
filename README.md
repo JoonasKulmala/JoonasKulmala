@@ -1,4 +1,4 @@
-### Hello there, I'm Joonas - aka [JoonasKulmala][website]
+### Hello there! I'm Joonas - aka JoonasKulmala
 
 ![Website](https://img.shields.io/website?label=LinkedIn.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)(https://www.linkedin.com/in/joonas-kulmala-0a583914a/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JoonasKulmala?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JoonasKulmala)
@@ -32,7 +32,7 @@
 <br />
 <br />
 
-[website]:
+[website]: https://www.linkedin.com/in/joonas-kulmala-0a583914a/
 [twitter]: https://twitter.com/JoonasKulmala
 [linkedin]: https://www.linkedin.com/in/joonas-kulmala-0a583914a/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt

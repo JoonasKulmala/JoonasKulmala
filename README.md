@@ -17,6 +17,7 @@
 [<img align="left" alt="JoonasKulmala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+<br />
 
 ### My languages and tools:
 
@@ -34,6 +35,8 @@
 <br />
 <br />
 
+### Articles I found interesting:
+
 <!--[website]: https://www.linkedin.com/in/joonas-kulmala-0a583914a/-->
 [twitter]: https://twitter.com/JoonasKulmala
 [linkedin]: https://www.linkedin.com/in/joonas-kulmala-0a583914a/
@@ -50,8 +53,3 @@
 [python]: https://www.python.org/
 [java]: https://www.java.com/en/
 [sql]: -
-
-<br />
-<br />
-
-### Articles I found interesting:

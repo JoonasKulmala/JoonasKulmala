@@ -5,9 +5,10 @@
 
 ## I'm a software developer in the making. Mostly Python/JS/Java with a side of Linux management knowledge and basic database planning.
 
-- Currently learning Linux server management
+- This year been learning Linux system & server management
+- Currently working on IoT projects and (finally) setting up my website
 - 2021 goals: finish studies & find a new job
-- 2022 goals: ???
+- 2022 goals:
 - I :heart: piano music and mint chocolate :chocolate_bar:
 
 ### Connect with me:

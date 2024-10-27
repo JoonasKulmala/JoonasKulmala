@@ -3,13 +3,14 @@
 [![Website](https://img.shields.io/website?label=LinkedIn.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/joonas-kulmala-0a583914a/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JoonasKulmala?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=JoonasKulmala)
 
-## I'm a software developer in the making. Mostly Python/JS/Java with a side of Linux management knowledge and basic database planning.
+## Aspiring software dev in the making. Varying knowledge in
 
-- This year been learning Linux system & server management
-- Currently working on IoT projects and (finally) setting up my website
-- 2021 goals: finish studies & find a new job
-- 2022 goals:
-- I :heart: piano music and mint chocolate :chocolate_bar:
+- JS, React, Express
+- Java, Spring Boot
+- SQL, R, basic database planning
+- Shell, YAML
+- Git
+- Linux, server/user management
 
 ### Connect with me:
 
